@@ -1,7 +1,7 @@
 # PythonPlaygroundAfternoon
 Hands-on Data Workshop Material 
 
-The DataAnalysis folder contains Jupyter notebooks and Data for introducing data analysis and basic grpah plotting
+The DataAnalysis folder contains Jupyter notebooks and Data for introducing data analysis and basic graph plotting
 
 The Maps folder contains Jupyter notebooks and Data for creating choropleth maps
 
