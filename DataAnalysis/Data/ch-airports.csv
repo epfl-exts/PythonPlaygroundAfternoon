@@ -1,0 +1,62 @@
+ident,size,name,latitude_deg,longitude_deg,elevation_ft
+LSZH,large_airport,Zürich Airport,47.464699,8.54917,1416
+LSGG,large_airport,Geneva Cointrin International Airport,46.23809814,6.108950138,1411
+LSZB,medium_airport,Bern Belp Airport,46.91410065,7.497149944,1674
+LSGS,medium_airport,Sion Airport,46.21960068,7.326759815,1585
+LSZR,medium_airport,St Gallen Altenrhein Airport,47.48500061,9.560770035,1306
+LSZS,medium_airport,Samedan Airport,46.53409958,9.884110451,5600
+LSZA,medium_airport,Lugano Airport,46.00429916,8.910579681,915
+LSZL,small_airport,Locarno Airport,46.16080093,8.878609657,650
+LSZG,medium_airport,Grenchen Airport,47.181599,7.41719,1411
+LSGL,small_airport,Lausanne-Blécherette Airport,46.54529953,6.616670132,2041
+LSZF,small_airport,Birrfeld Airport,47.4436,8.23361,1300
+LSGE,small_airport,Ecuvillens Airport,46.75500107,7.076109886,2293
+LSZC,small_airport,Buochs Airport,46.974444,8.396944,1475
+LSGC,medium_airport,Les Eplatures Airport,47.08390045,6.792840004,3368
+LSGK,small_airport,Saanen Airport,46.48749924,7.250830173,3307
+LSGN,small_airport,Neuchatel Airport,46.95750046,6.864719868,1427
+LSPL,small_airport,Langenthal Airport,47.18280029,7.741390228,1575
+LSGR,small_airport,Reichenbach Air Base,46.61360168,7.677780151,2385
+LSPV,small_airport,Wangen-Lachen Airport,47.2047,8.8675,1335
+LSGB,small_airport,Bex Airport,46.25830078,6.986390114,1312
+LSPM,small_airport,Ambri Airport,46.512501,8.68978,3241
+LSGY,small_airport,Yverdon-les-Bains Airport,46.76190186,6.613329887,1421
+LSZP,small_airport,Biel-Kappelen Airport,47.08919907,7.289999962,1437
+LSGT,small_airport,Gruyeres Airport,46.59420013,7.094439983,2257
+LSPG,small_airport,Kagiswil Airport,46.90829849,8.254170418,1525
+LSZK,small_airport,Speck-Fehraltorf Airport,47.37639999,8.757499695,1748
+LSZN,small_airport,Hausen am Albis Airport,47.23860168,8.51556015,1928
+LSGP,small_airport,La Côte Airport,46.40639877,6.258059978,1352
+LSTA,small_airport,Raron Airport,46.30360031,7.823329926,2029
+LSZW,small_airport,Thun Airport,46.75640106,7.600560188,1837
+LSZU,small_airport,Buttwil Airport,47.26470184,8.302499771,2372
+LSTS,small_airport,St Stephan Airport,46.49739838,7.41257,3304
+LSTZ,small_airport,Zweisimmen Airport,46.55250168,7.380559921,3068
+LSTO,small_airport,Motiers Airport,46.91669846,6.614999771,2402
+LSZE,small_airport,Bad Ragaz Airport,47.01499939,9.481940269,1617
+LSMD,medium_airport,Dübendorf Air Base,47.39860153,8.648229599,1470
+LSPN,small_airport,Triengen Airport,47.22669983,8.07806015,1594
+LSPU,small_airport,Muenster Aero Airport,46.4803009,8.26333046,4380
+LSZO,small_airport,Luzern-Beromunster Airport,47.18999863,8.204719543,2146
+LSZI,small_airport,Flugplatz Fricktal-Schupfart,47.5089,7.95,1788
+LSZQ,small_airport,Bressaucourt Airport,47.392677,7.028648,1866
+LSMP,medium_airport,Payerne Air Base,46.8432,6.915060043,1465
+LSMF,medium_airport,Mollis Airport,47.07889938,9.064829826,1485
+LSMM,small_airport,Meiringen Airport,46.74330139,8.109999657,1895
+LSZJ,small_airport,Courtelary Airport,47.18360138,7.090829849,2247
+LSML,small_airport,Lodrino Air Base,46.29589844,8.99213028,
+LSZT,small_airport,Lommis Airfield,47.524399,9.00306,1539
+LSME,medium_airport,Emmen Air Base,47.092444,8.305184,1400
+LSMA,medium_airport,Alpnach Air Base,46.943901,8.28417,1460
+LSPD,small_airport,Dittingen Airport,47.43859863,7.491390228,1758
+LSZX,small_airport,Schanis Airport,47.17169952,9.039440155,1365
+LSPF,small_airport,Schaffhausen Airport,47.69060135,8.526940346,1519
+LSTB,small_airport,Bellechasse Airport,46.97940063,7.132219791,1421
+LSPO,small_airport,Olten Airport,47.3443985,7.88944006,
+LSZV,small_airport,Sitterdorf Airport,47.50889969,9.26278019,1660
+LSPA,small_airport,Amlikon Glider Airport,47.57419968,9.047499657,1371
+LSTR,small_airport,Montricher Airport,46.59030151,6.400559902,2178
+LSPH,small_airport,Winterthur Airport,47.51499939,8.771940231,1506
+CH-0004,small_airport,Altiport du Glacier de Tsanfleuron,46.3206526,7.2328797,
+CH-0002,small_airport,Altiport de Croix de Coeur,46.12338,7.23425,
+CH-0003,small_airport,Altisurface du Glacier de Prasfleuri,46.064289,7.354317,
